@@ -19,8 +19,12 @@ Here's a list of stuff we have to do.
 - [ ] Build the VR QA landing page.
 - [ ] Launch the VR QA landing page.
 - [ ] Write site copy and sitemap for headlabs.co 
-
+- [ ] Complete notes for all articles in Awesome VR
 
 
 
 ### March
+
+- [] Form Corporation
+- [] Compile Legal Documents Necessary for VR QA site (privacy policy)
+- [] Write and Complete V1 of Best Practices
