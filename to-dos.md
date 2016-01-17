@@ -25,6 +25,6 @@ Here's a list of stuff we have to do.
 
 ### March
 
-- [] Form Corporation
-- [] Compile Legal Documents Necessary for VR QA site (privacy policy)
-- [] Write and Complete V1 of Best Practices
+- [ ] Form Corporation
+- [ ] Compile Legal Documents Necessary for VR QA site (privacy policy)
+- [ ] Write and Complete V1 of Best Practices
