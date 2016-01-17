@@ -17,6 +17,7 @@ Here's a list of stuff we have to do.
 - [ ] Schedule a time to review the busines plan as a team.
 - [ ] Make a print version of the business plan.
 - [ ] Build the VR QA landing page.
+- [ ] Design the VR QA logo. 
 - [ ] Launch the VR QA landing page.
 - [ ] Write site copy and sitemap for headlabs.co 
 - [ ] Complete notes for all articles in Awesome VR
